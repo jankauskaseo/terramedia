@@ -29,7 +29,7 @@ Here are some of our successful projects:
 ## Additional Resources
 
 Looking to test mobile responsiveness or simulate user experiences? Check out this useful tool:  
-[Mobile Phone Simulator](https://sites.google.com/view/mobilephonesimulator/)
+[Mobile Phone Simulator](https://sites.google.com/view/mobilephonesimulator/) or [seo specialistai](https://terramedia.pages.dev/)
 
 ## Getting Started
 
